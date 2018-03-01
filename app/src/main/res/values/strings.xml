@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PoloCounter2</string>
+        <string name="team_1">Team A</string>
+        <string name="team_2">Team B</string>
+        <string name="team1_goal">0</string>
+        <string name="team1_penalty_score">0</string>
+        <string name="team1_foul_score">0</string>
+        <string name="team1_red_card_score">0</string>
+        <string name="team1_goal_button">GOAL</string>
+        <string name="team1_penalty_button">PENALTY</string>
+        <string name="team1_red_card_button">RED CARD</string>
+        <string name="team1_foul_button">FOUL</string>
+        <string name="team2_goal">0</string>
+        <string name="team2_penalty_score">0</string>
+        <string name="team2_foul_score">0</string>
+        <string name="team2_red_card_score">0</string>
+        <string name="team2_goal_button">GOAL</string>
+        <string name="team2_penalty_button">PENALTY</string>
+        <string name="team2_red_card_button">RED CARD</string>
+        <string name="team2_foul_button">FOUL</string>
+        <string name="game_reset">Reset</string>
+    <string name="reset">Reset</string>
+    <string name="team_b">Team B</string>
+    <string name="image">image</string>
+</resources>
+

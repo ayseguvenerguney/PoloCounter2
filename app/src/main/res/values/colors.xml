@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="team_color">#1a237e</color>
+    <color name="goal_button_background">#1a237e</color>
+    <color name="button_text_color">#fafafa</color>
+    <color name="penalty_button_color">#2e7d32</color>
+    <color name="foul_button_color">#ff6f00</color>
+    <color name="red_card_button">#d50000</color>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="three_buttons">4dp</dimen>
+    <dimen name="four_buttons_size">10dp</dimen>
+    <dimen name="three_but_size">35sp</dimen>
+</resources>
